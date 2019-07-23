@@ -7,6 +7,6 @@
 		<title>Welcome</title>
 	</head>
 	<body>
-	 <p style="font-size:  navy;">Welcome TO Spring Mvc</p>
+	 <p style="font-size: large;color: navy;">Welcome TO Spring Mvc</p>
 	</body>
 </html>
